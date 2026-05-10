@@ -1,0 +1,15 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="4.39189">
+<testsuite name="tests\login.spec.js" timestamp="2026-05-09T06:31:12.386Z" hostname="" tests="1" failures="0" skipped="0" time="1.516" errors="0">
+<testcase name="login success test" classname="tests\login.spec.js" time="1.516">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\tests-login-login-success-test\test-finished-1.png]]
+
+[[ATTACHMENT|test-results\tests-login-login-success-test\video.webm]]
+
+[[ATTACHMENT|test-results\tests-login-login-success-test\trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>
