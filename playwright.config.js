@@ -1,5 +1,6 @@
 const { defineConfig } = require('@playwright/test');
-    module.exports = defineConfig({
+const allure = require('allure-playwright/reporter');
+module.exports = defineConfig({
     use: {
         headless: true,
         screenshot: 'on',
