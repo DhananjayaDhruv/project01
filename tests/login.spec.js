@@ -13,5 +13,5 @@ test('login success test', async ({ page }) => {
 
     //assertion
     await expect(page.locator('#message')).toBeVisible();
-    //await expect(page.locator('#message')).toHaveText('Login successful!');
+    await expect(page.locator('#message')).toHaveText('Login successful!');
 });
